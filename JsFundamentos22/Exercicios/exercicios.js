@@ -69,6 +69,9 @@ function calcularFinal(){
                     break;
                 }
             }
+        } else {
+            console.log(Alunos[i].name + '   não conseguiu ' + Alunos[i].soma + ' tente novamente no proximo periodo.'); 
+            console.log('--------------');
         }
     }
 }
