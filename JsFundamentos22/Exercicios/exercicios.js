@@ -1,9 +1,9 @@
-/*-------------------------------------------------------------------------------*/
-/* 
+/*------------------------------------------------------------------------------->
+ 
 1# Crie uma matriz - alunos, insira quatro itens, que devem ser objetos e ter três propriedades: nome, pontuação1, pontuação2, com os seguintes valores:
-a. Jhon, 47,46.
-b. Bob, 23, 24.
-c. Nick, 40, 35.
+a. Lucas, 47,46.
+b. Fernanda, 23, 24.
+c. José, 40, 35.
 d. Alex, 44, 45.
 
 2# Suponha que, os alunos têm chance de graus diferentes de diploma, como A,B,C,D,E e esses graus são relevantes para os seguintes limites de aprovação
@@ -13,9 +13,9 @@ d. Alex, 44, 45.
 4# create function e use nela for loops if else declarações e o que você precisar, para descobrir qual aluno passou em um exame e que tipo de diploma ele obteve.
 5# Exibir o resultado final no console.
 
-*/
-                    
-/*--------------------------------RESULTADO--------------------------------------*/
+
+                 
+<--------------------------------RESULTADO--------------------------------------*/
 
 
 var Alunos = [
@@ -77,5 +77,3 @@ function calcularFinal(){
 }
 
 calcularFinal();
-
-
