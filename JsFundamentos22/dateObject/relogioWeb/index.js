@@ -38,7 +38,6 @@ function relogioWeb(){
 
 
     
-
     /* um Array com os dias da semana de segunda a domingo, que será concatenada na variavel var e será exibida no html.*/ 
     var semana = ['Segunda-feira', ' Terça-feira ', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sabado', 'Domingo'];
 
